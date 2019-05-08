@@ -497,7 +497,7 @@ Responsive Styles
   }
 }
 @media screen and (max-width: 375px) {
-	img {
+	.logo img {
 	width: 100%;
 	}
 	h2 {
