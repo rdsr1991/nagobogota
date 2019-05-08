@@ -496,3 +496,9 @@ Responsive Styles
     font-size: 30px;
   }
 }
+@media screen and (max-width: 375px) {
+	img {
+	width: 100%;
+	}
+		
+}
