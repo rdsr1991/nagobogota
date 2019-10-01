@@ -121,13 +121,13 @@ a:active {color: #dda100;}
 	margin-top: 30px;
 }
 
-.time_circles .textDiv_Days, .time_circles .textDiv_Hours, .time_circles .textDiv_Minutes, .time_circles .textDiv_Seconds {
+/*.time_circles .textDiv_Days, .time_circles .textDiv_Hours, .time_circles .textDiv_Minutes, .time_circles .textDiv_Seconds {
   background: url(../images/back-circle.png);
   background-size: 70%;
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: center;
-}
+}*/
 
 .time_circles > div > h4 {
   color: #dda100;
