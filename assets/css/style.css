@@ -123,7 +123,7 @@ a:active {color: #dda100;}
 
 .time_circles .textDiv_Days, .time_circles .textDiv_Hours, .time_circles .textDiv_Minutes, .time_circles .textDiv_Seconds {
   background: url(../images/back-circle.png);
-  background-size: 80%;
+  background-size: 70%;
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: center;
